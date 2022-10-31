@@ -6,6 +6,6 @@ To-do:
 
 - Logic and display bugs need to be fixed
 - Improve UI
-- Add more maps and ga,e features
+- Add more maps and game features
 
 Executable uploaded for now can be directly run in the console. Will continue to update executable for people to play so they don't need to compile the code themselves.
