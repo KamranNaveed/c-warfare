@@ -8,4 +8,8 @@ To-do:
 - Improve UI
 - Add more maps and game features
 
-Executable uploaded for now can be directly run in the console. Will continue to update executable for people to play so they don't need to compile the code themselves.
+Executable uploaded for now can be directly run in the console. Will continue to update executable for people to play so they don't need to compile the code themselves.4
+
+Takewayas:
+
+Taking on this project in my intro to programming course, especially in a language like C, probably taught me more about coding than any other course during my time in university.
