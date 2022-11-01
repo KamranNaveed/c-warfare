@@ -8,7 +8,7 @@ To-do:
 - Improve UI
 - Add more maps and game features
 
-Executable uploaded for now can be directly run in the console. Will continue to update executable for people to play so they don't need to compile the code themselves.4
+Executable uploaded for now can be directly run in the console. Will continue to update executable for people to play so they don't need to compile the code themselves. Dont worry, its not a virus :)
 
 Takewayas:
 
