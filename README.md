@@ -1,6 +1,6 @@
 # C-WARFARE
 
-On-the-console space invaders-esque game made as a semester project for Intro to Programming course in my university back in 2018. Written in C, without any graphic libraries (ASCII GUI, headache to build when you're new to programming). 
+On-the-console space invaders-esque game made as a semester project for Intro to Programming university course. Written in C, without the use of graphic libraries (ASCII GUI). 
 
 ## To-do:
 
